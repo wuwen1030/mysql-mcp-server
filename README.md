@@ -43,6 +43,7 @@ code ~/Library/Application\ Support/Claude/claude_desktop_config.json
     }
   }
 }
+```
 
 Replace the env config with yours!
 
